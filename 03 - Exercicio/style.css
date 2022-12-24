@@ -1,0 +1,13 @@
+.paragrafo{
+    padding: 20px;
+    margin: 40px;
+    text-align: justify;
+}
+
+.cor01{
+    background-color: #F5F5F5; 
+}
+
+.cor02{
+    background-color: #F0CCE2; 
+}
